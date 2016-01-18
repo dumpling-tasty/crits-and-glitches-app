@@ -1,2 +1,2 @@
-# dumpling-tasty
-Our awesome app
+# Crits & Glitches
+A dice roll app to show relevant data for Shadowrun games.
